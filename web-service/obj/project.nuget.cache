@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKc+vZCxAM/TFga5700G9Y+aZStdqqQx7O96PkR31B88hCwSE6rdEzFSIGB7RyO9UbMGn5F1Vp/mk3ecSuIi9Q==",
+  "success": true,
+  "projectFilePath": "/Users/yoavtamirp/RiderProjects/web-service/web-service/web-service.csproj",
+  "expectedPackageFiles": [
+    "/Users/yoavtamirp/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/yoavtamirp/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yoavtamirp/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/yoavtamirp/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/yoavtamirp/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/yoavtamirp/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
